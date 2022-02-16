@@ -1,0 +1,27 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a{
+    color: rgb(243, 243, 243);
+    font-weight: lighter;
+}
+a:hover{
+    color: pink;
+    font-weight: bold;
+    cursor: pointer;
+}
+.topnav{
+    background-color: black;
+    padding: 30px;
+   
+}
+.icon{
+    float: right;
+    display: none;
+}
+#myTopnav{
+    text-align: center;
+}
